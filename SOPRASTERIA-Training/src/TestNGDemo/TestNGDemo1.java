@@ -9,4 +9,10 @@ public class TestNGDemo1 {
 	{
 		System.out.println("Welcome to the new topic - TestNG");
 	}
+
+	@Test
+	public void bye()
+	{
+		System.out.println("bye to the new topic - TestNG");
+	}
 }
